@@ -5,6 +5,7 @@
     "description": "This is a Chrome extension for scheduling your day.",
     "action": {
         "default_popup": "js/index.html",
-        "default_title": "Time table"
+        "default_title": "Time table",
+         "default_icon": "logo.png"
     }
 }
